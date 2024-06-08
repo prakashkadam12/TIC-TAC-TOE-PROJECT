@@ -9,7 +9,7 @@ This Tic-Tac-Toe project is a simple web application built using HTML, Tailwind 
 - **Winning Detection:** Automatically detects when a player has won the game or if it's a draw.
 - **Reset Option:** Allows players to reset the game board and start a new game.
 
-## Usage
+## Setup Instructions
 
 To play the Tic-Tac-Toe game:
 
